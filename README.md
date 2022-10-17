@@ -1,76 +1,70 @@
- 
+# Getting Started with Create React App
 
-#                                                    Hacktoberfest2022
-![image](https://user-images.githubusercontent.com/99472914/192144059-5cd0b329-f238-474b-b475-7385eaa35d05.png)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
- 
+## Available Scripts
 
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/sj5027052/Hacktoberfest2022)
+In the project directory, you can run:
 
- 
+### `npm start`
 
-<h4> You can make folders of programming languages and also you can contribute in the repo's below.</h4>
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-<h4> Feel free to contribute to this repo by creating and editing little programs in any programming language and make different folders for the code you want to contribute. </h4>
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-If you want to practice to make a pull request, follow the CONTRIBUTING.md
+### `npm test`
 
- 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Check out `good-first-issues` for contributing [here](https://github.com/sj5027052/Hacktoberfest2022/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
-</div>
+### `npm run build`
 
-<br>
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
- 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### Author
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-* **Saloni Malaiya**
-* [Twitter](https://twitter.com/Saloni18312589)
-* [GitHub](https://github.com/sj5027052)
+### `npm run eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
- 
-### Contributing
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Please read [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-### Rules
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-* Read the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
-* Respect people.
-* Be friendly, helpful, and patient.
-* You can contribute in any way.
+## Learn More
 
-### Support
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-If you like this project, please consider supporting it by giving it a ⭐️. It will help us to grow and improve this project and help others to find it.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Conclusion
+### Code Splitting
 
-- Happy Contributing! 🎉 
-- May you have a great Hacktoberfest 2022! 🎉
-- If you have any questions, feel free to ask me. I will be happy to help you. 😊
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### References
+### Analyzing the Bundle Size
 
-- [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com)
-- [Hacktoberfest 2022 Participation Guidelines](https://hacktoberfest.com/participation)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-<br>
+### Making a Progressive Web App
 
-- This project and other projects listed above are a part of Hacktoberfest 2022 and are open to all members of the GitHub community. Any member may contribute to these projects without being a collaborator or a maintainer and earn a T-shirt from DigitalOcean and DEV by making four valid pull requests (PRs) between October 1-31 (in any time zone).
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-- The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
+### Advanced Configuration
 
-**✨ Thanks goes to these wonderful people ✨**
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-## License
+### Deployment
 
-**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](/LICENSE) file for details**
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0)
+### `npm run build` fails to minify
 
- 
- 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
