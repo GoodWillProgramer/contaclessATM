@@ -8,7 +8,7 @@ cap = cv2.VideoCapture(r'C:\Users\sivam\Downloads\a.mp4')
 # Check if camera opened successfully
 if (cap.isOpened()== False): 
   print("Error opening video  file")
-   
+#dont read 
 # Read until video is completed
 while(cap.isOpened()):
       
