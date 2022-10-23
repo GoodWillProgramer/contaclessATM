@@ -22,7 +22,7 @@ drawColor = (0,0,255)
 cap = cv2.VideoCapture(0)
 cap.set(3, 1280)
 cap.set(4, 720)
-
+/* change line 6,7 */
 detector = htm.HandDetector(detectionCon=0.80)
 xp, yp = 0, 0
 imgCanvas = np.zeros((720, 1280, 3), np.uint8)
