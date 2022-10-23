@@ -1,4 +1,5 @@
 #include<iostream>
+//this is a program written in c++
 using namespace std;
 class member{
     protected:
