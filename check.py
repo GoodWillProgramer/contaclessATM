@@ -1,5 +1,5 @@
 import cv2
-
+# this is a python program
 cap = cv2.VideoCapture('C:\Users\sivam\Downloads\a.mp4')
 
 while(True):
