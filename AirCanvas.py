@@ -26,7 +26,6 @@ cap.set(4, 720)
 detector = htm.HandDetector(detectionCon=0.80)
 xp, yp = 0, 0
 imgCanvas = np.zeros((720, 1280, 3), np.uint8)
-####################################################
 while True:
 
     # 1. Import images
@@ -71,7 +70,7 @@ while True:
 
         # 5. Drawing Mode : Index finger is up
         if fingers[1] and fingers[2] == False:
-            cv2.circle(img, (x1, y1), 15, drawColor, cv2.FILLED)
+            cv2.circle(img, (x1, y1), 15, drawColor, cv2.FILLED) //added
             print("Drawing Mode")
             if xp == 0 and yp == 0:
                 xp, yp = x1, y1
