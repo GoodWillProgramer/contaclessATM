@@ -14,6 +14,7 @@ class HandDetector:
         self.mpHands = mp.solutions.hands
         self.hands = self.mpHands.Hands(self.mode, self.maxHands, self.detectionCon, self.trackCon)
         self.mpDraw = mp.solutions.drawing_utils
+        //update line 27,28
 //contributionn 
         self.tipIds = [4, 8, 12, 16, 20]
 
