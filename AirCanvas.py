@@ -26,7 +26,6 @@ cap.set(4, 720)
 detector = htm.HandDetector(detectionCon=0.80)
 xp, yp = 0, 0
 imgCanvas = np.zeros((720, 1280, 3), np.uint8)
-//commenettt adiition is nw
 while True:
 
     # 1. Import images
